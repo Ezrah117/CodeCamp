@@ -1,2 +1,2 @@
 # CodeCamp
-A collection of projects issues by freecodecamp.org
+A collection of projects issued by freecodecamp.org
